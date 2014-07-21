@@ -48,6 +48,8 @@ How to use CS in IDE
 1. NetBeans:
 
         http://plugins.netbeans.org/plugin/40282/phpmd-php-codesniffer-plugin
+        
+        --ignore="*/install/*,*/templates/*,modules/yupe/*,modules/zendsearch/*,config/*"
 
 2. PHPStorm
 
